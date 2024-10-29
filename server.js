@@ -24,5 +24,5 @@ const PORT = 9999;
 
 
 server.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
+    console.log(`Server is lice: http://localhost:${PORT}`);
 });
